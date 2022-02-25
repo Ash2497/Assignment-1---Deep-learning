@@ -1,5 +1,6 @@
 # Assignment-1---Deep-learning
-Code repository for assignment 1 of the Deep Learning course.
+Code repository for assignment 1 of the Deep Learning course. Please note that the functions described here are present in the file named "as1_dl_final". The other files have bugs and were commited before testing out the model. They have been retained in the repository to show the progress of the assignment. 
+
 The code contains functions to predict the classes from the fashion MNIST dataset, and subsequently, the MNIST dataset. Standard back propogation algorithms, namely, 1) Stochastic and batch Gradient descent, 2) Monentum based gradient descent, 3) Nesterov accelerated gradient descent, 4) RMSprop 5) ADAM and 6) NADAM algorithms have been incroporated. The user can call each of these functions at a time to train the model. Further details are provided while discussing the backpropagation section.
 
 FORWARD AND BACKWARD PROPGATION
